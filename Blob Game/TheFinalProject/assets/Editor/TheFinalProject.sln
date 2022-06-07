@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheFinalProject", "TheFinalProject.csproj", "{DA0CC0E4-839B-83A8-55D3-890E8975F282}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheFinalProject.Editor", "TheFinalProject.Editor.csproj", "{F7535623-0C54-8813-1C9E-958910C59641}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA0CC0E4-839B-83A8-55D3-890E8975F282}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA0CC0E4-839B-83A8-55D3-890E8975F282}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA0CC0E4-839B-83A8-55D3-890E8975F282}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA0CC0E4-839B-83A8-55D3-890E8975F282}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7535623-0C54-8813-1C9E-958910C59641}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7535623-0C54-8813-1C9E-958910C59641}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7535623-0C54-8813-1C9E-958910C59641}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7535623-0C54-8813-1C9E-958910C59641}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
